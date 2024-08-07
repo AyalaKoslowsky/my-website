@@ -8,8 +8,9 @@ function App() {
       <div className="content">
         <h1>Ayala Koslowsky</h1>
         <p>Computer science graduate from Tel Aviv University and a passionate programmer.</p>
+        {/* <button>My Websites</button> */}
         <div className='icon-links'>
-        <a href='https://www.linkedin.com/in/ayala-koslowsky-38bbbb1b5/' target="_blank" rel="noopener noreferrer">
+          <a href='https://www.linkedin.com/in/ayala-koslowsky-38bbbb1b5/' target="_blank" rel="noopener noreferrer">
             <img src='./linkedin.png' alt='linkedin'/>
           </a>
           <a href='mailto:ko.ayala@gmail.com' target="_blank" rel="noopener noreferrer">

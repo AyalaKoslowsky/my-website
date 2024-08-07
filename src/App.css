@@ -85,6 +85,10 @@ p {
   font-family: Times New Roman;
 }
 
+button {
+  background-color: #cab5c0;
+}
+
 .icon-links {
   display: flex;
   gap: 10px;
